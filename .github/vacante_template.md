@@ -1,7 +1,5 @@
 Descripción del vacante
 
-Descripción del projecto
-
 ## Local
 
 Remoto ou Oficina, Ciudad de México - Polanco
